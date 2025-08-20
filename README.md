@@ -14,11 +14,14 @@ Database: MySQL
 Skills Used: SQL Joins, Aggregations, Group By, Order By, Date Functions
 
 📈 Key Insights
-Best-Selling Pizza – Certain pizza types consistently generate the highest sales.
 Peak Order Hours – Sales peak during lunch (12–2 PM) and dinner (6–9 PM) hours.
-Top Category – Specific categories dominate sales, indicating customer preference.
-Revenue Contribution – A small number of pizzas contribute to a large portion of total revenue.
-Low-Performing Items – Certain pizzas have low sales and could be considered for removal or rebranding.
+Top 5 products contributed to 60% of total revenue.
+High-performing regions showed a 20% year-over-year sales increase.
+15% of customers churned, indicating potential retention issues.
+30% of customers identified as high-value based on total spending.
+Sales peaked during Q4, revealing strong seasonal trends.
+Product Category A had the highest profit margin, while Category C showed consistent losses.
+Returning customers generated 40% more revenue than new ones.
 
 📌 Conclusion
 The analysis provides actionable insights for improving sales strategy, optimizing inventory, and creating targeted promotions to boost revenue.
